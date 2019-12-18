@@ -1,5 +1,5 @@
 # Ahmad Moqanasa
-## Software Engineer Java | Python | Kafka | Kubernetes
+## Professional Nerd
 
 <a href="https://facebook.com/abugnais"><img src="https://simpleicons.org/icons/facebook.svg" alt="Facebook" style="height:50px"></a>
 <a href="https://twitter.com/abugnais"><img src="https://simpleicons.org/icons/twitter.svg" alt="Twitter" style="height:50px"></a>
