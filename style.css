@@ -30,7 +30,7 @@ body
     min-height: 100%;
     margin: 0;
 
-    background-color: #fcfcfc;
+    background-color: black;
 }
 html
 {
@@ -264,4 +264,6 @@ pre > code {
 a svg {
     width: 10%;
     min-width: 50px;
+    color: #777;
+    fill: #777;
 }
