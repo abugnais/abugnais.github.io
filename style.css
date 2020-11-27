@@ -263,7 +263,7 @@ pre > code {
 }
 a svg {
     width: 10%;
-    min-width: 50px;
+    min-width: 25px;
     color: #777;
     fill: #777;
 }
